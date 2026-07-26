@@ -34,3 +34,8 @@ dist-ssr
 # Netlify
 .netlify
 .netlify/
+
+# Environment Variables
+.env
+.env.*
+!.env.example
